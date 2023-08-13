@@ -1,8 +1,10 @@
 # CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API
-![1](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/7fe335ed-76da-44fd-b69d-538af240e4fb)
-![2](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/17d42f8d-e401-45ce-a3d4-7af418481d91)
-![3](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/1a1599f0-ec16-4385-b415-33ec3b5a0bf8)
-![4](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/a14256b1-881d-4d69-8e9b-df839ce86b2d)
-![5](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/14cc7c10-ea6b-4cfb-9e30-642c55386ec5)
-![6](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/e76d7e8a-84b9-4318-b5bf-8581aa3f99f8)
+
+
+![1](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/34889808-0c85-4cab-9113-eb9ab7cb8686)
+![2](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/037b1858-1535-42d6-bbdf-b5a09b3bf3a2)
+![3](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/fbc878c0-4813-4707-b479-6ebd940ec87d)
+![4](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/85d205f0-d0f6-46a3-b00d-a9f11ccf67d9)
+![5](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/4f3c11cf-fb74-40de-8b9b-a1d77b8c2066)
+![6](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/ca7524d1-ed8a-4ac6-905f-9c3bfbf9274f)
 ![8](https://github.com/furkanndemirr/CRUD_APP-with-REACT_NATIVE-NODE.JS-EXPRESS.JS-MYSQL-RESTful-API/assets/99350923/808f8479-7895-4e5b-bfb3-090caa7f3b6c)
